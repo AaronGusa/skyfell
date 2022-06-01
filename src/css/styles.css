@@ -2,10 +2,10 @@
 
 /*----------------Mobile View Initial CSS----*/
 html {
-  /* background-image: url("./images/backsplash.png");
+  /* background-image: url("/images/backsplash.png");
   background-repeat: no-repeat;
   background-size: cover; */
-  background-color: rgb(5, 4, 24);
+  background-color: black;
   color: white;
   font-family: "Helvetica";
 }

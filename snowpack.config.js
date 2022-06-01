@@ -7,14 +7,14 @@ module.exports = {
   },
   buildOptions: {
     out: "build",
-    baseUrl: "/sleepoutside/build/",
+    baseUrl: "/build/",
     clean: true,
     htmlFragments: true,
   },
   experiments: {
     optimize: {
       // 'bundle': true,
-      minify: true,
+      minify: false,
       target: "es2015",
     },
   },
